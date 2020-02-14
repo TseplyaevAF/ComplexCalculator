@@ -1,0 +1,5 @@
+E:\прога\C#\Training\ComplexLib\bin\Debug\ComplexLib.dll
+E:\прога\C#\Training\ComplexLib\bin\Debug\ComplexLib.pdb
+E:\прога\C#\Training\ComplexLib\obj\Debug\ComplexLib.csprojAssemblyReference.cache
+E:\прога\C#\Training\ComplexLib\obj\Debug\ComplexLib.dll
+E:\прога\C#\Training\ComplexLib\obj\Debug\ComplexLib.pdb

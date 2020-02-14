@@ -1,0 +1,8 @@
+E:\прога\C#\Training\Training\bin\Debug\Training.exe.config
+E:\прога\C#\Training\Training\bin\Debug\Training.exe
+E:\прога\C#\Training\Training\bin\Debug\Training.pdb
+E:\прога\C#\Training\Training\obj\Debug\Training.csprojAssemblyReference.cache
+E:\прога\C#\Training\Training\obj\Debug\Training.exe
+E:\прога\C#\Training\Training\obj\Debug\Training.pdb
+E:\прога\C#\Training\Training\obj\Debug\Training.Form1.resources
+E:\прога\C#\Training\Training\obj\Debug\Training.csproj.GenerateResource.cache

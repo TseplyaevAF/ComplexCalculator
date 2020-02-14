@@ -1,0 +1,8 @@
+E:\прога\C#\Training\Training\bin\Debug\Training.exe.config
+E:\прога\C#\Training\Training\bin\Debug\Training.exe
+E:\прога\C#\Training\Training\bin\Debug\Training.pdb
+E:\прога\C#\Training\Training\obj\Debug\ComplexCalc.csprojAssemblyReference.cache
+E:\прога\C#\Training\Training\obj\Debug\ComplexCalc.Form1.resources
+E:\прога\C#\Training\Training\obj\Debug\ComplexCalc.csproj.GenerateResource.cache
+E:\прога\C#\Training\Training\obj\Debug\Training.exe
+E:\прога\C#\Training\Training\obj\Debug\Training.pdb
